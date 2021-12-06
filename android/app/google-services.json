@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231184797623",
+    "project_id": "test-counter-app-b2a6d",
+    "storage_bucket": "test-counter-app-b2a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231184797623:android:bb7b3255254bab6cb96232",
+        "android_client_info": {
+          "package_name": "com.app.counterapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231184797623-ech36j3rd29s7vtmhq53r1meejjbdag0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDpHNkUozurawyAScdgTOVcmFUrU4yOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231184797623-ech36j3rd29s7vtmhq53r1meejjbdag0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
